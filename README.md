@@ -1,4 +1,4 @@
-### <div align="center">Hi ! I'm Lucas, after nearly a decades in the refrigeration industry, I discover programming and fall for it, welcome on my GitHub account ! 💻</div>  
+### <div align="center">Hi! I'm Lucas. After nearly a decade in the refrigeration industry, I discovered programming and fell for it. Welcome to my GitHub account! 💻</div>  
   
 
 - 🔭 I’m currently working on a music blog that you can visit here : [Album Alchemy](http://albumalchemy.fr/)  
