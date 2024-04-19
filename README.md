@@ -1,7 +1,7 @@
 ### <div align="center">Hi! I'm Lucas. After nearly a decade in the refrigeration industry, I discovered programming and fell for it.<br><br> Welcome to my GitHub account! 💻</div>  
   
 
-- 🔭 I’m currently working on a Symfony Project you can visit here : [La Bonne Graine][(https://projet.lucasberthet.com/register)]
+- 🔭 I’m currently working on a Symfony Project you can visit here : [La Bonne Graine](https://projet.lucasberthet.com/register)
   
 
 <br/>  
