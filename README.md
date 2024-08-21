@@ -35,7 +35,6 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" alt="POSTMAN" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
