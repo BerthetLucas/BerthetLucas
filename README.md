@@ -1,7 +1,7 @@
-### <div align="center">Hi! I'm Lucas. After nearly a decade in the refrigeration industry, I discovered programming and fell for it.<br><br> Welcome to my GitHub account! 💻</div>  
+### <div align="center">Hi ! I'm Lucas I'm a web developper in apprenticeship 🏫<br><br> Welcome to my GitHub account! 💻</div>  
   
 
-- 🔭 I’m currently working on a Symfony Project you can visit here : [La Bonne Graine](https://projet.lucasberthet.com/register)
+- 🔭 I’m currently working on a Next.JS project that will be soon online, for now you can access the repo I'm working in : https://github.com/BerthetLucas/sharing-links-transformer
   
 
 <br/>  
