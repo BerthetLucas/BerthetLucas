@@ -1,10 +1,13 @@
 ### <div align="center">Hi ! I'm Lucas I'm a web developper in apprenticeship 🏫<br><br> Welcome to my GitHub account! 💻</div>  
   
-- 🔭 I'm currently working on a Next.JS project that will be soon online, for now you can access the repo I'm working in : https://github.com/BerthetLucas/sharing-links-transformer
+I'm currently working on a Next.JS project that's online, come and try it : https://sharing-links-transformer.vercel.app/
   
 <br/>  
-## My Skill Set  
+My Skill Set
+<br><br/>  
 <table><tr><td valign="top" width="33%">
+
+
 
 ### Frontend  
 <div align="center"> 
