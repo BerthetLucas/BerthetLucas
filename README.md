@@ -1,4 +1,4 @@
-### <div align="center">Hi ! I'm Lucas I'm a web developper in apprenticeship 🏫<br><br> Welcome to my GitHub account! 💻</div>  
+### <div align="center">Hi ! I'm Lucas, a web developper specialized in Front-End development<br><br> Welcome to my GitHub account! 💻</div>  
   
 I'm currently working on a Next.JS project that's online, come and try it : https://sharing-links-transformer.vercel.app/
   
