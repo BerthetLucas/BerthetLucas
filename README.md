@@ -1,7 +1,7 @@
 ### <div align="center">Hi ! I'm Lucas, a web developper specialized in Front-End development<br><br> Welcome to my GitHub account! 💻</div>  
   
 I'm currently working on an app call GEO Compass that allow brand to get their ranking in the LLM responses, it will be soon available. It's a fullstack project composed 
-by a Nest JS back-end working with a Next JS front-end. 
+by a Nest JS back-end working with a Next JS front-end. Take a look here : https://geo-compass-front-end.vercel.app/en
   
 <br/>  
 My Skill Set
